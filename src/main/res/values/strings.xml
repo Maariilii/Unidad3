@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Orderss</string>
+    <string name="type_product_name">Type product name</string>
+    <string name="type_price_of_product">Type price of product</string>
+    <string name="type_stock_product">Type stock product</string>
+    <string name="save_product">Save product</string>
+    <string name="emp_no">Emp No</string>
+    <string name="to_date">To Date</string>
+    <string name="save">Save</string>
+    <string name="from_date">From Date</string>
+    <string name="product_price">product_price</string>
+    <string name="product_stock">product_stock</string>
+</resources>
